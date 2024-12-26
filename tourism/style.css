@@ -1,0 +1,11 @@
+
+.card>img
+{
+    height: 20rem;
+    background-color: darkgray;
+    
+}
+.card{
+    background-color: burlywood;
+    color: burlywood;
+}
